@@ -1,6 +1,7 @@
 # Mini-portifólio
+![Mini-portifolio](https://user-images.githubusercontent.com/104541413/196094308-1e716e27-436f-444f-98a7-2f72b9157908.gif)
 
-![Mini-portifolio](https://user-images.githubusercontent.com/104541413/196093746-ef15e28e-453c-487e-8e41-be1c57896f38.gif)
+
 
 
 
