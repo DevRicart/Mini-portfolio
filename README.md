@@ -3,7 +3,7 @@
 
 
 Um projeto que estou realizando enquanto acompanhando um bootcamp dos Dev em dobro.
-Nesse projeto estamos fazendo uma espécie de mini portifólio para chamar atenção de possíveis recrutadores e clientes, no meu caso estou fazendo esse projeto para a
+Nesse projeto estou fazendo uma espécie de mini portifólio para chamar atenção de possíveis recrutadores e clientes, no meu caso estou fazendo esse projeto para a
 minha namorada, modificando ele bastante da proposta inicial dada por eles e deixando o projeto mais com a cara dela, se tornando algo de minha autoria.
 
 ## Tecnologias
@@ -12,5 +12,13 @@ minha namorada, modificando ele bastante da proposta inicial dada por eles e dei
 
 ## Contatos
 
-- E-mail: ricardo.gferreira97@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/ricardo-gon/
+<a href="https://www.linkedin.com/in/ricardo-gon/">
+<img width="50" src="https://img.icons8.com/office/344/linkedin.png" alt="Ícone Linkedin"> </a>
+
+<a href="https://contate.me/ricardo-gon">
+<img width="50" src="https://img.icons8.com/office/344/whatsapp--v1.png" alt="Ícone Whatsapp"> </a>
+
+<a href="https://www.instagram.com/ricardinferreira/">
+<img width="50" src="https://img.icons8.com/office/344/instagram-new.png" alt="Ícone Instagram"> </a>
+
+E-mail: ricardo.gferreia97@hotmail.com </br>
