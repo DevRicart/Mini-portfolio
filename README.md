@@ -1,6 +1,11 @@
-# Mini-portifólio
+<h1 align="center">
+Mini-portifólio
+</h1>
+<h1 align="center">
+
 ![Mini-portifolio_AdobeExpress](https://user-images.githubusercontent.com/104541413/196095065-9e71eb48-9672-4126-98b6-9aa7917e4ff6.gif)
 
+</h1>
 
 Um projeto que estou realizando enquanto acompanhando um bootcamp dos Dev em dobro.
 Nesse projeto estou fazendo uma espécie de mini portifólio para chamar atenção de possíveis recrutadores e clientes, no meu caso estou fazendo esse projeto para a
@@ -9,6 +14,7 @@ minha namorada, modificando ele bastante da proposta inicial dada por eles e dei
 ## Tecnologias
 - HTML
 - CSS
+- JavaScript
 
 ## Contatos
 
