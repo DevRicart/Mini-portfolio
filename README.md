@@ -1,5 +1,5 @@
 <h1 align="center">
-Mini-portifólio
+Mini Portifólio
 </h1>
 <h1 align="center">
 
