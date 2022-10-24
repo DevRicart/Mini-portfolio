@@ -12,17 +12,10 @@ Feito no Mapa DEV Week, um evento exclusivo e gratuito, promovido pelo Dev em do
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="rocketpay" src="Readme image/Mini-portifolio_AdobeExpress.gif">
 </p>
 
 <br>
-
-<p align="center">
-
-![Mini-portifolio_AdobeExpress](https://user-images.githubusercontent.com/104541413/197629798-e65b212a-9562-4254-9de3-5306c918e948.gif)
-
-  
-</p>
 
 ## 🚀 Tecnologias
 
